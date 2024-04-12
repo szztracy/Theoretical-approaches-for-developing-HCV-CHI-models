@@ -1,0 +1,7 @@
+num_iter: 20
+num_pop: 204
+seed: 1234
+# strategy: mu_plus_lambda
+strategy: simple
+mut_prob: 0.2
+ga_params_file: ga_params.json

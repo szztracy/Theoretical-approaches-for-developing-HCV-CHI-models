@@ -1,0 +1,105 @@
+[
+    {
+        "name": "epmi",
+        "type": "float",
+        "lower": 1,
+        "upper": 20,
+        "sigma": 0.95
+    },
+
+    {
+        "name": "epmx",
+        "type": "float",
+        "lower": 1,
+        "upper": 60,
+        "sigma": 2.95
+    },
+
+    {
+        "name": "ivp",
+        "type": "constant",
+        "value": 0.5
+    },
+
+    {
+        "name": "vir",
+        "type": "float",
+        "lower": 0.01,
+        "upper": 0.2,
+        "sigma": 0.0095
+    },
+
+    {
+        "name": "pcc",
+        "type": "float",
+        "lower": 1,
+        "upper": 20,
+        "sigma": 0.95
+    },
+
+    {
+        "name": "pde",
+        "type": "float",
+        "lower": 0.1,
+        "upper": 2,
+        "sigma": 0.095
+    },
+
+    {
+        "name": "pcm",
+        "type": "float",
+        "lower": 1,
+        "upper": 60,
+        "sigma": 2.95
+    },
+
+    {
+        "name": "vpsg",
+        "type": "float",
+        "lower": 0.1,
+        "upper": 2,
+        "sigma": 0.095
+    },
+
+    {
+        "name": "ss",
+        "type": "float",
+        "lower": 1,
+        "upper": 5,
+        "sigma": 0.2
+    },
+
+    {
+        "name": "vpaf",
+        "type": "float",
+        "lower": 1,
+        "upper": 240,
+        "sigma": 11.95
+    },
+
+    {
+        "name": "tvpd",
+        "type": "float",
+        "lower": 72,
+        "upper": 168,
+        "sigma": 4.8
+    },
+
+    {
+        "name": "ihn",
+        "type": "constant",
+        "value": 300000
+    },
+
+    {
+        "name": "ivl",
+        "type": "constant",
+        "value": 1620
+    },
+
+    {
+        "name": "vcr",
+        "type": "constant",
+        "value": 2.59
+    }
+]
